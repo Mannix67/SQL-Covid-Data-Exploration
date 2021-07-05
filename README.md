@@ -23,4 +23,9 @@ Total death count
 
 made code so you could view the continents. 
 
+![Screenshot (145)](https://user-images.githubusercontent.com/84920516/124517025-df116400-ddda-11eb-88ce-c589e7752d22.png)
+death per cent with all dates 
 
+![Screenshot (146)](https://user-images.githubusercontent.com/84920516/124517031-e2a4eb00-ddda-11eb-9ea1-414a7e1e6151.png)
+
+death per cent total. 
