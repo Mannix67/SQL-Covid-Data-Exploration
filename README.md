@@ -1,6 +1,7 @@
 # SQL-Covid-Data-Exploration
 
-This project explain 
+the goal of this project was to put into practise features on SQL that i have learned through online courses. The main features i wanted to use where 
+Select, From, 
 
 ![Screenshot (132)](https://user-images.githubusercontent.com/84920516/124505125-bc725180-ddc0-11eb-82b8-78a9d91541cb.png)
 
