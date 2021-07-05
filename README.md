@@ -8,3 +8,7 @@ Began by looking at total cases v total deaths. by dividing total deaths/ total 
 show the likelyhood of dying in each country. in this instance i looked at the united states. 
 
 I then went on to look at Total cases V total population ie highest infection rate per population 
+
+![Screenshot (134)](https://user-images.githubusercontent.com/84920516/124506671-145e8780-ddc4-11eb-8704-0e89a74afede.png)
+
+
