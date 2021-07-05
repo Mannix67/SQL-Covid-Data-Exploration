@@ -6,7 +6,7 @@ Select, From, where , group by, having, order by, join analysing and joining tab
 Began by looking at total cases v total deaths. by dividing total deaths/ total cases X100 to get the per centage chance of dying from Covid 19.This enabled me to 
 show the likelyhood of dying in each country. in this instance i looked at the united states. 
 
-![Screenshot (132)](https://user-images.githubusercontent.com/84920516/124505125-bc725180-ddc0-11eb-82b8-78a9d91541cb.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/84920516/124523153-c3638900-dded-11eb-811a-12328fedbf9a.png)
 
 
 I then went on to look at Total cases V total population ie highest infection rate per population. Andora has the highest cases per population although this is expected due to it's small population size. Montenegro and czech republic are the worst performing nations above 1 
@@ -16,7 +16,7 @@ million people. USA is the worst performing nation above 10 million people.
 
 Total death count, Unisted states has the most deaths in the world. 
 
-![Screenshot (135)](https://user-images.githubusercontent.com/84920516/124509446-e4b27e00-ddc9-11eb-99a9-aebf4a29a0c4.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/84920516/124523210-0291da00-ddee-11eb-8ecf-114714bc36bb.png)
 
 Here, i made a table that gives the total deaths of the world and each continent. 
 
