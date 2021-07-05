@@ -30,3 +30,7 @@ death per cent with all dates
 ![Screenshot (146)](https://user-images.githubusercontent.com/84920516/124517031-e2a4eb00-ddda-11eb-9ea1-414a7e1e6151.png)
 
 death per cent total. 
+
+
+![Screenshot (148)](https://user-images.githubusercontent.com/84920516/124519583-a7f28100-dde1-11eb-9252-0ba634b48b16.png)
+total vaccination v total population 
