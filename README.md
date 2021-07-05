@@ -27,11 +27,10 @@ deaths/cases X100 to get mortality rate on every day since january 2020 for each
 
 ![Screenshot (145)](https://user-images.githubusercontent.com/84920516/124517025-df116400-ddda-11eb-88ce-c589e7752d22.png)
 
+Total Globl mortality rate.
 
 ![Screenshot (146)](https://user-images.githubusercontent.com/84920516/124517031-e2a4eb00-ddda-11eb-9ea1-414a7e1e6151.png)
 
-death per cent total. 
-
+total vaccination v total population. used join function to join the two data sets together to put them into a table. 
 
 ![Screenshot (148)](https://user-images.githubusercontent.com/84920516/124519583-a7f28100-dde1-11eb-9252-0ba634b48b16.png)
-total vaccination v total population 
