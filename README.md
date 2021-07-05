@@ -1,10 +1,9 @@
 # SQL-Covid-Data-Exploration
 
-the goal of this project was to put into practise features on SQL that i have learned through online courses. The main features i wanted to use where 
-Select, From, where , group by, having, order by, join analysing and joining tables. I used a covid 19 data set from kaggle and divided it up on excel for both deaths and vaccination numbers. I then set out to explore the data and use all the specified features. I firstly dealth with death figures. The data containted death and population figures from every country around the world. The data is from january 2020 to may 2021. 
+The goal of this project was to put into practice features on SQL that I have learned through online courses. The main features I wanted to use where 
+Select, From, where, group by, have, order by functions. Aswell as the join function for connecting data sets and creating tables. I used a covid 19 data set from Kaggle and divided it up on excel for both deaths and vaccination numbers. I then set out to explore the data and use all the specified features. I firstly dealt with death figures. The data contained death and population figures from every country around the world. The data is from January 2020 to May 2021. 
 
-Began by looking at total cases v total deaths. by dividing total deaths/ total cases X100 to get the per centage chance of dying from Covid 19.This enabled me to 
-show the likelyhood of dying in each country. in this instance i looked at the united states. 
+I began by looking at total cases v total deaths. By dividing total deaths/ total cases X100 to get the percentage chance of dying from Covid 19.This enabled me to show the likelihood of dying in each country. In this instance, I looked at the United States. 
 
 ![Screenshot (155)](https://user-images.githubusercontent.com/84920516/124523584-94e6ad80-ddef-11eb-9801-9fc3c86a8ea5.png)
 
