@@ -11,4 +11,5 @@ I then went on to look at Total cases V total population ie highest infection ra
 
 ![Screenshot (134)](https://user-images.githubusercontent.com/84920516/124506671-145e8780-ddc4-11eb-8704-0e89a74afede.png)
 
-
+Andora has the highest cases per population although this is expected due to it's small population size. Montenegro and czech republic are the worst performing nations above 1 
+million people. USA is the worst performing nation above 10 million people. 
