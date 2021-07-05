@@ -16,7 +16,8 @@ million people. USA is the worst performing nation above 10 million people.
 
 Total death count, Unisted states has the most deaths in the world. 
 
-![Screenshot (135)](https://user-images.githubusercontent.com/84920516/124523210-0291da00-ddee-11eb-8ecf-114714bc36bb.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/84920516/124523425-f1959880-ddee-11eb-84d8-68fb2db4da98.png)
+
 
 Here, i made a table that gives the total deaths of the world and each continent. 
 
